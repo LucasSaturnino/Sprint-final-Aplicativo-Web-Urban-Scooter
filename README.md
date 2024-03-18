@@ -4,7 +4,7 @@ Aplicar técnicas desenvolvidas no curso de Analista de testes/QA da TripleTen.
 
 **Introdução**
 
-O curso de Analista de testes/QA da TripleTen possui uma plataforma dívida em sprint, aplicando conceitos em simulações de testes, a sprint final objetiva teste de conhecimento dos conceitos estudos nas sprints anteriores, com o projeto dividido em três partes, a primeira consiste em questões teóricas, a segunda é o teste de um aplicativo web, e por a terceira é um teste de API.
+O curso de Analista de testes/QA da TripleTen possui uma plataforma dívida em sprint, aplicando conceitos em simulações de testes, a sprint final objetiva teste de conhecimento dos conceitos estudos nas sprints anteriores, com o projeto dividido em três partes, a primeira consiste em questões teóricas, a segunda é o teste de um aplicativo web, e a terceira é um teste de API.
 
 **Resultado**
 
