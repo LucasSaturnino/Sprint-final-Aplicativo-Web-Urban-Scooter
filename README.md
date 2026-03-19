@@ -1,69 +1,26 @@
-📌 Descrição
+**Objetivo**
 
-Este projeto tem como objetivo analisar e validar o funcionamento de um aplicativo web de rotas urbanas, com foco na identificação de inconsistências, validação de requisitos e análise de comportamento do sistema.
+Aplicar técnicas desenvolvidas no curso de Analista de testes/QA da TripleTen.
 
-A abordagem aplicada combina técnicas de testes de software com análise de dados, permitindo identificar padrões e possíveis falhas nos cálculos de tempo e custo de trajetos.
+**Introdução**
 
-🎯 Objetivos
+A sprint final objetiva teste de conhecimento dos conceitos estudos nas sprints anteriores, com o projeto dividido em três partes, a primeira consiste em questões teóricas, a segunda é o teste de um aplicativo web, e a terceira é um teste de API.
 
-Validar requisitos funcionais do sistema
+**Resultado**
 
-Identificar possíveis falhas nos cálculos de rotas
+- Parte 01
 
-Analisar comportamento do sistema com base em dados de entrada
-
-Garantir consistência entre regras de negócio e resultados
-
-🧠 Metodologia
-🔹 Análise de requisitos
-
-Realização da decomposição dos requisitos do sistema, estruturando as informações para melhor compreensão e identificação de possíveis inconsistências.
+A primeira etapa possui questões relacionadas a análise de requisitos, particionamento de classes de equivalência, valores limites, tabela de decisão, otimização de testes, relatório de bug, melhores práticas para títulos de bugs, arquitetura de cliente e servidor, HTTP, cache, URL, JSON, e banco de dados.
 
 ![image](https://github.com/LucasSaturnino/-Tripleten-Sprint-Final/assets/149327395/87305bc0-7200-4f6f-8daa-fab1d3f0d574)
-(Tabela em Excel da decomposição dos requisitos do sistema)
 
-🔹 Modelagem de cenários
+- Parte 02
 
-Criação de representações visuais (mapa mental e fluxograma) para facilitar a análise do fluxo do sistema e suas regras de funcionamento.
+A segunda etapa do projeto foi a análise do aplicativo web “Urban Scooter”, onde analisei os requisitos e figma, desenvolvi o mapa mental do formulário de pedido, contendo a lógica do trabalho de layout, criei um checklist dos requisitos de funcionalidades da tela “Status do pedido”, e elaborei casos de testes para validar os campos da tela “Fazer pedido”.
+
+1. Mapa mental
 
 ![Lucas Saturnino, 3° Turma, Projeto final drawio_page-0001](https://github.com/LucasSaturnino/-Tripleten-Sprint-Final/assets/149327395/df7b862f-ee5d-462c-86fb-4a3d2e4edaef)
-(Mapa mental)
-
-🔹 Técnicas de teste
-
-Aplicação de:
-
-Particionamento por classes de equivalência
-
-Análise de valores limite
-
-🔍 Atividades realizadas
-
-Estruturação e análise de requisitos do sistema
-
-Criação de mapa mental para visualização dos fluxos
-
-Definição de classes de equivalência
-
-Elaboração de casos de teste
-
-Análise de cálculos de custo e tempo de trajetos
-
-📈 Resultados
-
-A análise permitiu validar o comportamento do sistema e identificar possíveis inconsistências nos cálculos de tempo e custo das rotas, contribuindo para a melhoria da qualidade e confiabilidade da aplicação.
-
-🛠️ Ferramentas utilizadas
-
-Figma
-
-Jira
-
-Swagger
-
-📊 Evolução para Análise de Dados
-
-Este projeto contribuiu para o desenvolvimento de habilidades analíticas, como identificação de padrões, validação de dados e interpretação de resultados, que são fundamentais na área de análise de dados.
 
 
 2. Checklist
